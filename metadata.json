@@ -1,0 +1,6 @@
+{
+  "name": "ePasazh - فروشگاه اینترنتی مدرن تک‌فروشنده",
+  "description": "فروشگاه اینترنتی جامع و مدرن فارسی با الهام از ساختار ePasazh، شامل کاتالوگ پیشرفته کالا، سبد خرید، فرایند پرداخت، پنل مشتری و پنل مدیریت کامل.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
